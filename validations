@@ -1,6 +1,0 @@
-ng-touched: Control has been visited
-ng-untouched: Control has not been visited
-ng-dirty: Control's value has been changed
-ng-pristine: Control's value hasn't been changed
-ng-valid: Control's value is valid
-ng-invalid: Control's value isn't valid
